@@ -43,6 +43,14 @@ To run the React Server, follow these steps:
 
 This command will execute the React Server and start the application.
 
+
+## Screenshots
+
+<img width="805" alt="Screenshot 2023-05-23 at 23 05 40" src="https://github.com/Avichai-Mizrachi/OS-DesignPatterns-Reactor/assets/118835480/c8199772-7aa9-4a41-9649-cacc01683299">
+
+<img width="807" alt="Screenshot 2023-05-23 at 23 11 28" src="https://github.com/Avichai-Mizrachi/OS-DesignPatterns-Reactor/assets/118835480/e284b40a-d554-444d-a25a-e67de4183826">
+
+
 ## Authors
 
 Avichai Mizrachi
