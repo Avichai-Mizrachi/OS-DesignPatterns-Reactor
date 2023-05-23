@@ -42,3 +42,8 @@ To run the React Server, follow these steps:
    ```
 
 This command will execute the React Server and start the application.
+
+## Authors
+
+Avichai Mizrachi
+Maya Rom
